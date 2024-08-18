@@ -1,6 +1,4 @@
 
-Certainly! Here's a more polished and detailed README.md template for your analog clock project:
-
 Analog Clock
 A stylish and interactive analog clock built with HTML, CSS, and JavaScript. This clock features smooth animations and dynamic effects, making it a visually appealing addition to any web project.
 
@@ -19,3 +17,4 @@ JavaScript (ES6): For handling real-time updates and smooth animations.
 Follow these steps to run the analog clock on your local machine:
 
 Clone the Repository:
+https://mennaelmasry99.github.io/Analog-clock/
